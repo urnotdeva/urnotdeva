@@ -93,10 +93,10 @@
 
 ### 🌍 Connect With Me
 <p align="left">
-  <a href="#"><img alt="Website" title="Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-47CCCC?style=for-the-badge&logo=globe&logoColor=white"/></a>
-  <a href="#"><img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  <a href="#"><img alt="Discord" title="Join my Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- <a href="#"><img alt="Website" title="Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-47CCCC?style=for-the-badge&logo=globe&logoColor=white"/></a> -->
+  <a href="https://www.youtube.com/@urnotdeva"><img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <!-- <a href="#"><img alt="Discord" title="Join my Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
+  <a href="mailto:devanshs149@gmail.com"><img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
