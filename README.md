@@ -1,6 +1,6 @@
 <picture>
-  <source srcset="./ascii-text-art-4-modified.png" media="(prefers-color-scheme: light)">
-  <source srcset="./ascii-text-art-4.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./ascii-text-art-4-modified.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./ascii-text-art-4.png" media="(prefers-color-scheme: light)">
   <img src="https://example.com/logo-light.png" alt="Hina Chono Logo">
 </picture>
 
