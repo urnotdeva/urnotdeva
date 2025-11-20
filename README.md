@@ -1,4 +1,4 @@
-[![Deva's banner](./assets/the-banner.png)](https://theofficials.dev)
+[![Deva's banner](./3.png)]
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
