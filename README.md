@@ -21,6 +21,35 @@
     <li>⚡ Fun fact: <code>Cats make everything better</code></li>
 </ul>
 
+<table>
+<tr>
+<td>
+
+### 👨‍💻 About Me
+- 💬 Call me `Deva` (or Ø Deva)  
+- 🏠 Live in `United Arab Emirates`  
+- 💻 Passionate about `coding, math, and physics`  
+- 🌱 Currently learning `Python` and skilled in `Web Development`  
+- 💡 Love experimenting with `new technologies` and building `useful projects`  
+- 🧠 Inspired by `Dr. A. P. J. Abdul Kalam`  
+- 📫 Reach me via `Discord` → Join my server and open a ticket  
+- 😄 Pronouns: `He / Him`  
+- ⚡ Fun fact: `Cats make everything better`
+
+</td>
+<td>
+
+
+
+<td align="center">
+
+###  Hina Chono is the Best
+<img src="./4.png" width="200px" alt="Profile Image"/>
+
+</td>
+</tr>
+</table>
+
 [![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/urnotdeva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/urnotdeva)
 [![Total Stars](https://custom-icon-badges.demolab.com/github/stars/urnotdeva?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/urnotdeva/stargazers)
 
