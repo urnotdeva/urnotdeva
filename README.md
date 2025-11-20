@@ -1,6 +1,9 @@
-[![Deva's banner](./3.png)]
+<picture>
+  <source srcset="./ascii-text-art-4-modified.png" media="(prefers-color-scheme: light)">
+  <source srcset="./ascii-text-art-4.png" media="(prefers-color-scheme: dark)">
+  <img src="https://example.com/logo-light.png" alt="Hina Chono Logo">
+</picture>
 
-![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
 <h1 align="center">Hey 👋, I'm Devansh Rajesh (Ø Deva)</h1>
 <h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
