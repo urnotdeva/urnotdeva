@@ -1,37 +1,56 @@
+[![Deva's banner](./assets/the-banner.png)](https://theofficials.dev)
+
+![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
+
 <h1 align="center">Hey 👋, I'm Devansh Rajesh (Ø Deva)</h1>
 <h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
 
-- 👨‍💻 I’m passionate about **coding, math, and physics**
-- 🌱 I’m currently learning **Python** and already skilled in **Web Development**
-- 💡 I love experimenting with **new technologies** and building **useful projects**
-- 🧠 Inspired by **Dr. A. P. J. Abdul Kalam** — to dream, build, and serve with purpose
-- 📫 Reach me via **Discord** → Join my server and open a ticket
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: **Cats make everything better**
+### 👨‍💻 About Me
+<ul>
+    <li>💬 Call me <code>Deva</code> (or Ø Deva, whichever you like)</li>
+    <li>🏠 Live in <code>United Arab Emirates</code></li>
+    <li>💻 Passionate about <code>coding, math, and physics</code></li>
+    <li>🌱 Currently learning <code>Python</code> and skilled in <code>Web Development</code></li>
+    <li>💡 Love experimenting with <code>new technologies</code> and building <code>useful projects</code></li>
+    <li>🧠 Inspired by <code>Dr. A. P. J. Abdul Kalam</code> — to dream, build, and serve with purpose</li>
+    <li>📫 Reach me via <code>Discord</code> → Join my server and open a ticket</li>
+    <li>😄 Pronouns: <code>He / Him</code></li>
+    <li>⚡ Fun fact: <code>Cats make everything better</code></li>
+</ul>
 
----
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urnotdeva)
 
-### 🌐 About Me
-• GameID: **Toothless**  
-• Founder → [theofficials.dev] *(coming soon)*  
-• Always exploring how logic, creativity, and curiosity intersect in tech  
+![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
----
+### 🌐 Game & Projects
+<ul>
+    <li>GameID: <code>Toothless</code></li>
+    <li>Founder → [theofficials.dev](https://theofficials.dev) *(coming soon)*</li>
+    <li>Exploring how logic, creativity, and curiosity intersect in tech</li>
+</ul>
 
 ### 🚀 Current Focus
-- Building my foundation in **AI & Python automation**
-- Exploring **Go** and **Tauri** for cross-platform apps  
-- Expanding **OneApp**, my project to unify open-source installers  
-
----
+<ul>
+    <li>Building my foundation in <code>AI & Python automation</code></li>
+    <li>Exploring <code>Go</code> and <code>Tauri</code> for cross-platform apps</li>
+    <li>Expanding <code>OneApp</code>, my project to unify open-source installers</li>
+</ul>
 
 ### ✨ Life Inspiration
-> “Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action.”  
-> — *Dr. A. P. J. Abdul Kalam*  
+<blockquote>
+“Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action.”<br>
+— <em>Dr. A. P. J. Abdul Kalam</em>
+</blockquote>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urnotdeva&layout=donut&langs_count=12&hide_progress=true&theme=gotham&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF" width="100%">
 
 ---
 
 <!---
 urnotdeva/urnotdeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to see the changes.
 --->
