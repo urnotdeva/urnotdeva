@@ -8,6 +8,9 @@
 <h1 align="center">Hey 👋, I'm Devansh Rajesh (Ø Deva)</h1>
 <h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
 
+<table>
+<tr>
+<td>
 
 ### 👨‍💻 About Me
 - 💬 Call me `Deva` (or Ø Deva)  
