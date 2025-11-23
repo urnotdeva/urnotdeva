@@ -8,22 +8,6 @@
 <h1 align="center">Hey 👋, I'm Devansh Rajesh (Ø Deva)</h1>
 <h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
 
-### 👨‍💻 About Me
-<ul>
-    <li>💬 Call me <code>Deva</code> (or Ø Deva, whichever you like)</li>
-    <li>🏠 Live in <code>United Arab Emirates</code></li>
-    <li>💻 Passionate about <code>coding, math, and physics</code></li>
-    <li>🌱 Currently learning <code>Python</code> and skilled in <code>Web Development</code></li>
-    <li>💡 Love experimenting with <code>new technologies</code> and building <code>useful projects</code></li>
-    <li>🧠 Inspired by <code>Dr. A. P. J. Abdul Kalam</code> — to dream, build, and serve with purpose</li>
-    <li>📫 Reach me via <code>Discord</code> → Join my server and open a ticket</li>
-    <li>😄 Pronouns: <code>He / Him</code></li>
-    <li>⚡ Fun fact: <code>Cats make everything better</code></li>
-</ul>
-
-<table>
-<tr>
-<td>
 
 ### 👨‍💻 About Me
 - 💬 Call me `Deva` (or Ø Deva)  
