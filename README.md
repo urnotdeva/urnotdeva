@@ -1,9 +1,3 @@
-<picture>
-  <source srcset="./ascii-text-art-4-modified.png" media="(prefers-color-scheme: dark)">
-  <source srcset="./ascii-text-art-4.png" media="(prefers-color-scheme: light)">
-  <img src="https://example.com/logo-light.png" alt="Hina Chono Logo">
-</picture>
-
 
 <h1 align="center">Hey 👋, I'm Devansh Rajesh (Ø Deva)</h1>
 <h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
