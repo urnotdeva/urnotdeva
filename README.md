@@ -39,7 +39,7 @@
 ### 🌐 Game & Projects
 <ul>
     <li>GameID: <code>Toothless</code></li>
-    <li>Founder → [theofficials.dev](https://theofficials.dev) *(coming soon)*</li>
+    <li>Founder → [urnotdeva.com](https://urnotdeva.com)</li>
     <li>Exploring how logic, creativity, and curiosity intersect in tech</li>
 </ul>
 
