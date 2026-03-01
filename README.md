@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm Devansh Rajesh (Ø Deva)</h1>
+<h1 align="center">Hey 👋, I'm Deva (Ø Deva)</h1>
 <h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
 
 <table>
@@ -8,14 +8,11 @@
 
 ### 👨‍💻 About Me
 - 💬 Call me `Deva` (or Ø Deva)  
-- 🏠 Live in `United Arab Emirates`  
 - 💻 Passionate about `coding, math, and physics`  
 - 🌱 Currently learning `Python` and skilled in `Web Development`  
 - 💡 Love experimenting with `new technologies` and building `useful projects`  
 - 🧠 Inspired by `Dr. A. P. J. Abdul Kalam`  
-- 📫 Reach me via `Discord` → Join my server and open a ticket  
 - 😄 Pronouns: `He / Him`  
-- ⚡ Fun fact: `Cats make everything better`
 
 </td>
 <td>
@@ -103,8 +100,8 @@
 
 ### 🌍 Connect With Me
 <p align="left">
-  <!-- <a href="#"><img alt="Website" title="Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-47CCCC?style=for-the-badge&logo=globe&logoColor=white"/></a> -->
-  <a href="https://www.youtube.com/@urnotdeva"><img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <a href="https://urnotdeva.com"><img alt="Website" title="Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-47CCCC?style=for-the-badge&logo=globe&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@urnotdeva_official"><img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/></a>
   <!-- <a href="#"><img alt="Discord" title="Join my Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
   <a href="mailto:devanshs149@gmail.com"><img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -114,7 +111,3 @@
 <p align="center">
   <a href="#"><img alt="Made by Deva" title="Made by Deva" src="https://custom-icon-badges.demolab.com/badge/-Made%20by%20Deva-00796b?style=for-the-badge&logo=terminal&logoColor=white"/></a>
 </p>
-
-<!---
-urnotdeva/urnotdeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
