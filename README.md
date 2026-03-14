@@ -28,86 +28,34 @@
 </tr>
 </table>
 
-[![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/urnotdeva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/urnotdeva)
-[![Total Stars](https://custom-icon-badges.demolab.com/github/stars/urnotdeva?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/urnotdeva/stargazers)
-
-![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
-
-### 🌐 Game & Projects
-<ul>
-    <li>GameID: <code>Toothless</code></li>
-    <li>Founder → [urnotdeva.com](https://urnotdeva.com)</li>
-    <li>Exploring how logic, creativity, and curiosity intersect in tech</li>
-</ul>
-
-### 🧰 Languages & Tools
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<br />
-
----
-
-### 🎮 What I’m Up To
-- Building new tools using **Supabase**, **React**, and **Node.js**
-- Learning advanced **AI + IoT integrations**
-- Experimenting with **web animations** and **responsive UI**
-- Grinding in **Minecraft PvP** and **Fortnite**
-- Tinkering with hardware and **ESP32 projects**
-- Expanding **OneApp**, my cross-platform installer project
-
----
-
-### 🧩 Currently Learning
-- Advanced React Animations
-- Supabase Auth & Realtime DB
-- Node.js APIs and Discord integrations
-- AI models & Local inference setups
-- Go & Tauri for desktop apps
-
----
-
-### 🎯 Goals
-- Build and launch a SaaS-style web app by 2026  
-- Create open-source tools that help students & indie devs  
-- Grow my developer community and Discord server  
-- Keep improving daily — both as a coder and creator  
-
----
-
-### ✨ Life Inspiration
-<blockquote>
-“Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action.”<br>
-— <em>Dr. A. P. J. Abdul Kalam</em>
-</blockquote>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urnotdeva&layout=donut&langs_count=12&hide_progress=true&theme=gotham&hide=css)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF" width="100%"/>
-
----
-
-### 🌍 Connect With Me
-<p align="left">
-  <a href="https://urnotdeva.com"><img alt="Website" title="Website" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-47CCCC?style=for-the-badge&logo=globe&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@urnotdeva_official"><img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  <!-- <a href="#"><img alt="Discord" title="Join my Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
-  <a href="mailto:devanshs149@gmail.com"><img alt="Email" title="Email Me" src="https://custom-icon-badges.demolab.com/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
 ---
 
 <p align="center">
   <a href="#"><img alt="Made by Deva" title="Made by Deva" src="https://custom-icon-badges.demolab.com/badge/-Made%20by%20Deva-00796b?style=for-the-badge&logo=terminal&logoColor=white"/></a>
 </p>
+
+
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/urnotdeva) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21372380) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/urnotdeva) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/urnotdeva) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCt3bP_h0RZ6F_7-v96uH7vg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@urnotdeva) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=flat&logo=Pocketbase&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=urnotdeva&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=urnotdeva&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=urnotdeva&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=urnotdeva&theme=buefy&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=urnotdeva&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=urnotdeva&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/urnotdeva) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/urnotdeva) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
