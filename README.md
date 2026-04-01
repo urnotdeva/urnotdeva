@@ -21,7 +21,6 @@
 
 <td align="center">
 
-###  Hina Chono is the Best
 <img src="/Files/image.png" width="200px" alt="image"/>
 
 </td>
