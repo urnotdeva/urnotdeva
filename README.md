@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey 👋, I'm Deva (Ø Deva)</h1>
+<h1 align="center">Hey 👋, I'm デヴァ (Ø Deva)</h1>
 <h3 align="center">Aspiring Programmer • Tech Enthusiast • Entrepreneur</h3>
 
 <table>
@@ -46,5 +46,4 @@
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/urnotdeva) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
